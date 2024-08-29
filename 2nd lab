@@ -1,2 +1,6 @@
 #include <stdio.h>
 
+int main(void) {
+  printf("RRRR\t A\t  PPPP\nR   R \tA A   P   P\nR   R  A   A  P   P\nR R    AAAAA  PPPP\nR  R   A   A  P\nR   R  A   A  P\nR   R  A   A  P");
+  return 0;
+}
